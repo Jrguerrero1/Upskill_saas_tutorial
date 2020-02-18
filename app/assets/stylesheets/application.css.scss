@@ -58,13 +58,13 @@ h1, h2, h3 {
    }
 }
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: white;
+  background-color: #B5B5B5;
 }
 .navbar-default .navbar-toggle {
   border: 2px solid white;
   &:hover, &:focus {
-    background-color: #B5B5B5;
-    // opacity: 0.5;
+    background-color: white;
+   
   }
 }
 
